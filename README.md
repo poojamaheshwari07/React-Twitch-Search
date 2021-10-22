@@ -23,5 +23,6 @@ Completed project using react [Create React App documentation](https://facebook.
 ### Twitch API Documentations
 
 This section is deprecated: [https://dev.twitch.tv/docs/v5/reference/search#search-streams](https://dev.twitch.tv/docs/v5/reference/search#search-streams) so I have used [https://dev.twitch.tv/docs/api/reference#search-channels](https://dev.twitch.tv/docs/api/reference#search-channels)
-Other Resources:
+
+## Other Resources:
 [https://dev.twitch.tv/docs/api/migration](https://dev.twitch.tv/docs/api/migration)
